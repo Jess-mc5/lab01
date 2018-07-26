@@ -1,2 +1,3 @@
+New line
 first text
 Hello!
