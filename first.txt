@@ -1,3 +1,6 @@
 New line
+
+Different new line
+
 first text
 Hello!
